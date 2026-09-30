@@ -46,9 +46,9 @@ A curated list of top **Contract Lifecycle Management (CLM)** SaaS platforms and
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is a list of top open-source contract management, e-signature, document management, and contract analysis projects on GitHub, sorted by star count.
+Below is a list of top open-source contract management, e-signature, document management, and contract analysis projects on GitHub, sorted by Stars_Count.
 
-| Project 🛠️ | GitHub Stars ⭐ | License 📜 | Description 📝 |
+| Project 🛠️ | GitHub_Stars ⭐ | License 📜 | Description 📝 |
 | :--- | :--- | :--- | :--- |
 | **[Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** | [<img src="https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social&color=white" alt="Paperless-ngx Stars"/>](https://github.com/paperless-ngx/paperless-ngx/stargazers) | GPL-3.0 | The most popular open-source document management system with OCR, full-text search, tagging, and automated document retention policies. |
 | **[Documenso](https://github.com/documenso/documenso)** | [<img src="https://img.shields.io/github/stars/documenso/documenso?style=social&color=white" alt="Documenso Stars"/>](https://github.com/documenso/documenso/stargazers) | AGPL-3.0 | Open-source e-signature platform providing electronic signatures, custom signing templates, audit logs, and developer API. |
